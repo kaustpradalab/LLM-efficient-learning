@@ -1,3 +1,6 @@
 [submodule "Tiny-DeepSpeed"]
 	path = Tiny-DeepSpeed
 	url = https://github.com/liangyuwang/Tiny-DeepSpeed
+[submodule "Tiny-Megatron"]
+	path = Tiny-Megatron
+	url = https://github.com/liangyuwang/Tiny-Megatron
