@@ -2,9 +2,9 @@
 Find the most efficient way for a specific large language model to learn a specific task
 
 ## Repo List:
-* (CoreScheduler)[https://github.com/TheCoreTeam/core_scheduler]: A High-Performance Scheduling Framework for Large-Scale Model Training in C++.
-* (Tiny-DeepSpeed)[https://github.com/liangyuwang/Tiny-DeepSpeed]: A minimalistic re-implementation of the DeepSpeed library.
-* (Tiny-Megatron)[https://github.com/liangyuwang/Tiny-Megatron]: A minimalistic re-implementation of the Megatron library.
+* [CoreScheduler](https://github.com/TheCoreTeam/core_scheduler): A High-Performance Scheduling Framework for Large-Scale Model Training in C++.
+* [Tiny-DeepSpeed](https://github.com/liangyuwang/Tiny-DeepSpeed): A minimalistic re-implementation of the DeepSpeed library.
+* [Tiny-Megatron](https://github.com/liangyuwang/Tiny-Megatron): A minimalistic re-implementation of the Megatron library.
 
 ## Getting Started
 ```shell
