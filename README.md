@@ -8,6 +8,12 @@ Find the most efficient way for a specific large language model to learn a speci
 
 ## Getting Started
 ```shell
-git clone --recurse-submodules https://github.com/kaustpradalab/LLM-efficient-learning.git
-git submodule update --remote  # To use the newest version of all repos.
+git clone https://github.com/kaustpradalab/LLM-efficient-learning.git
+cd LLM-efficient-learning
+
+# To use the newest version of all repos.
+git submodule update --init --recursive
+# or use the specific repo
+git submodule update --init path/to/specific/repo
+cd path/to/specific/repo
 ```
